@@ -79,6 +79,7 @@
 - Operating Systems
 - Computer Architecture
 
+<!--
 ### AI
 - Deep Learning
 - Computer Vision
@@ -90,7 +91,7 @@
 - CUDA
 - Quantization
 - NVIDIA Jetson
-
+-->
 > **Goal:** AI Model → Optimization → Edge Device → Real-time Inference
 
 <br>
