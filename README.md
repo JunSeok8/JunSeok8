@@ -117,7 +117,7 @@
 ## 🔥 Projects
 
 ### 🚧 Building...
-
+<!--
 현재 학습한 내용을 기반으로 프로젝트를 만들어가고 있습니다.
 
 - ⚡ **Edge AI Inference Optimization**
@@ -134,7 +134,7 @@
   - NVIDIA Jetson
   - ROS2
   - Camera / Sensor 기반 AI System
-
+-->
 <br>
 
 <!-- =========================
